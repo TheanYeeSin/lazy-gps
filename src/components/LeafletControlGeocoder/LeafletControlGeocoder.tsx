@@ -3,7 +3,7 @@ import { useEffect } from "react";
 import { useMap } from "react-leaflet";
 import "leaflet-control-geocoder/dist/Control.Geocoder.css";
 
-
+import "./LeafletControlGeocoder.css";
 
 const LeafletControlGeocoder = () => {
   const map = useMap();

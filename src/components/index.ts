@@ -1,3 +1,3 @@
-import LeafletControlGeocoder from "./LeafletControlGeocoder";
+import LeafletControlGeocoder from "./LeafletControlGeocoder/LeafletControlGeocoder";
 
 export { LeafletControlGeocoder };
