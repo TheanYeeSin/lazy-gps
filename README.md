@@ -18,4 +18,5 @@ npm run dev
 
 ## Screenshot
 
-- in progress
+![image](https://github.com/user-attachments/assets/d35d2352-f127-440f-ae6f-32f5275a28df)
+
