@@ -1,6 +1,6 @@
 # Lazy GPS
 
-Why follow roads when you can go straight
+Why follow roads when you can go straight - Distance calculator in a straight line
 
 ## Setup for development
 
