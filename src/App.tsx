@@ -9,7 +9,7 @@ import {
 } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import { LeafletControlGeocoder } from "./components";
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import L, { LeafletMouseEvent, LatLng } from "leaflet";
 
 const App = () => {
